@@ -68,14 +68,14 @@ body {
     grid-template-rows: minmax(100px, auto) repeat(5, 70px);
   }
 
-  .output {
+  /*.output {
     padding: 0;
-  }
+  }     */
 
   body {
-    width: 350px;
+    /* width: 350px; */
     /* padding: auto; */
     /* margin: 0; */
-    overflow: hidden;
+    /* overflow: hidden; */
   }
 }
